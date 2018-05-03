@@ -1,0 +1,14 @@
+15eec00b6f53687134d01c43814fa0a1 *DESCRIPTION
+54d94d32cd58b896ba65e8d16366328b *NAMESPACE
+86cf47150c14ce1b1728a31d73930a16 *R/componerPeriodos.R
+c3983a2b30493b41a963cffc5604a79a *R/leerCoyuntura.R
+f4b255a91e0c94645fbc3d36745730f6 *R/leerDB.R
+455c1c24d58d28fd977d2ce28e76974e *R/leerPadron.r
+8e6c08d8951807f586a67c286bb64741 *R/rellenar.R
+3da523c035359b91c5103123907738f2 *build/partial.rdb
+1fe8cba4fc03a0e88db246eeee4724a8 *man/componerPeriodos.Rd
+c2b9facdf57c1e61944bd7b94f74a101 *man/leerCoyuntura.Rd
+2294c1fe6293eec1741852842ef68c27 *man/leerDB.Rd
+4081b9dfbdf426f041478382c9496469 *man/leerPadron.Rd
+24cdb9ebd11a63805dbe15147e3f5006 *man/leerSIECyL-package.Rd
+6dde9971137b8e0556a1c87e8a33eb5e *man/rellenar.Rd
