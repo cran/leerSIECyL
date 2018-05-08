@@ -1,5 +1,5 @@
 leerDB <-
-function(anno=NULL,provincias=NULL,municipios="TODOS",variables="POBLACION DE DERECHO (TOTAL)"){
+function(anno=as.numeric(substr(Sys.Date(),1,4))-1,provincias=NULL,municipios="TODOS",variables="POBLACION DE DERECHO (TOTAL)"){
   # chapuza para corregir errores al chequear
   variables=gsub("POBLACION","POBLACI%D3N",variables)
   baseurl1="http://www.jcyl.es/sie/sas/broker"

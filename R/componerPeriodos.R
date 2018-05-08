@@ -3,7 +3,7 @@ function(annos,mes=NULL,frecuencia="TRIMESTRE"){
     lf=toupper(substr(frecuencia,1,1))
     if(lf %in% c("A","Y")) return(annos)
     if(lf %in% c("T","Q")){
-       return(as.vector(outer(paste0(mes,"\U00B0 TRIM. "),annos,paste0)))  
+       return(as.vector(outer(paste0(mes,"\U00BA TRIM. "),annos,paste0)))  
     } 
     if(lf=="M"){
        if(is.null(mes)) mes=1:12
